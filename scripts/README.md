@@ -1,7 +1,7 @@
 
 ## Publish-Cmdlet.ps1
 
-Builds and deploys the project as a versioned PS module. The build version is automatically incremented. The project is validated to be set to copy all assemblies on build. Powershell Core only.
+Builds and deploys a C# Powershell Core module. The build version is automatically incremented. The project file is validated to be set to copy all assemblies on build.
 
 
 ### Usage
